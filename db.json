@@ -13,12 +13,5 @@
       "postId": 1
     }
   ],
-  "tasks": [
-    {
-      "id": 1,
-      "title": "Test-Task",
-      "body": "This is test task",
-      "status": false
-    }
-  ]
+  "tasks": []
 }
